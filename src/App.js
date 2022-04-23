@@ -427,7 +427,7 @@ For rewards Stake your Sifu Inu tokens
 </s.TextDescription>
 
 <Text style={{font: "var(font-link)", fontWeight: "bold", color: 'red'}}
-      onPress={() => Linking.openURL('http://google.com')}>
+      onPress={() => Linking.openURL('http://sifustaking.io')}>
   here
 </Text>
 
