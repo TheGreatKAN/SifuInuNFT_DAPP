@@ -6,13 +6,13 @@
     "SYMBOL": "BNB",
     "ID": 56
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
+  "NFT_NAME": "Sifu Inu NFT",
+  "SYMBOL": "SInft",
   "MAX_SUPPLY": 500,
   "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "",
-  "MARKETPLACE_LINK": "sifuinu.io",
+  "MARKETPLACE": "Tofunft.com",
+  "MARKETPLACE_LINK": "https://tofunft.com/",
   "SHOW_BACKGROUND": true
 }
